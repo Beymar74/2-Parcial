@@ -16,4 +16,5 @@ const CardComponent = () =>{
         </div>
     );
 };
+
 export default CardComponent
